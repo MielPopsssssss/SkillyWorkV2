@@ -29,9 +29,10 @@ const Hero = () => {
           D'Agence Web
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Our team of experts uses a methodology to identify the credit cards
-          most likely to fit your needs. We examine annual percentage rates,
-          annual fees.
+          SkillyWork une agence web spécialisée dans la création de sites web
+          et d'applications mobiles. Notre équipe vous accompagne aussi dans la 
+          création de votre identité visuelle et dans la gestion de vos réseaux.
+
         </p>
       </div>
 
