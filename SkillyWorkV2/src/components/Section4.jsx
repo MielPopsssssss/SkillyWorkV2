@@ -1,13 +1,12 @@
-import { card } from "../assets";
+import { p_marketing } from "../assets";
 import styles, { layout } from "../style";
 import Button from "./Button";
 
-const CardDeal = () => (
+const Section4 = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Find a better card deal <br className="sm:block hidden" /> in few easy
-        steps.
+        Faites mieux caca<br className="sm:block hidden" />en quewlques clics
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
@@ -18,9 +17,9 @@ const CardDeal = () => (
     </div>
 
     <div className={layout.sectionImg}>
-      <img src={card} alt="billing" className="w-[100%] h-[100%]" />
+      <img src={p_marketing} alt="" className="w-[100%] h-[100%]" />
     </div>
   </section>
 );
 
-export default CardDeal;
+export default Section4;

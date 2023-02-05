@@ -24,8 +24,15 @@ import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
 
+import p_section1 from "./p_section1.svg";
+import p_section3 from "./p_section3.svg";
+import p_marketing from "./p_marketing.svg";
+
 export {
+  p_marketing,
+  p_section3,
   airbnb,
+  p_section1,
   bill,
   binance,
   card,
